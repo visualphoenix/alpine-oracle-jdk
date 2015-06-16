@@ -1,0 +1,3 @@
+[submodule "mocker"]
+	path = mocker
+	url = git@github.com:visualphoenix/mocker.git
